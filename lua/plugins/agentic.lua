@@ -7,6 +7,7 @@ return {
       provider = "codex-acp",
     },
     keys = {
+      { "<leader>a", "", desc = "+ai", mode = { "n", "v", "i" } },
       {
         "<leader>aa",
         function()
