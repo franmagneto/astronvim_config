@@ -17,7 +17,7 @@ return {
         desc = "Toggle Agentic Chat",
       },
       {
-        "<leader>as",
+        "<leader>ac",
         function()
           require("agentic").add_selection_or_file_to_context()
         end,
