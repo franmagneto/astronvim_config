@@ -12,6 +12,7 @@ return {
   { import = "astrocommunity.pack.typescript" },
   { import = "astrocommunity.pack.rust" },
   { import = "astrocommunity.pack.markdown" },
+  { import = "astrocommunity.pack.nushell" },
 
   -- AI
   { import = "astrocommunity.ai.opencode-nvim" },
