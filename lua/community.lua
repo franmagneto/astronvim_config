@@ -11,4 +11,7 @@ return {
   -- Language packs
   { import = "astrocommunity.pack.typescript" },
   { import = "astrocommunity.pack.rust" },
+
+  -- AI
+  { import = "astrocommunity.ai.opencode-nvim" },
 }
