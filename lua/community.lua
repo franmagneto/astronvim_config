@@ -16,4 +16,7 @@ return {
 
   -- AI
   { import = "astrocommunity.ai.opencode-nvim" },
+
+  -- Colorschemes
+  { import = "astrocommunity.colorscheme.catppuccin" },
 }
