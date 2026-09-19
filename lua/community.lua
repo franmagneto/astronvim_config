@@ -15,6 +15,7 @@ return {
   { import = "astrocommunity.pack.nushell" },
   { import = "astrocommunity.pack.json" },
   { import = "astrocommunity.pack.docker" },
+  { import = "astrocommunity.pack.cpp" },
 
   -- AI
   { import = "astrocommunity.ai.opencode-nvim" },
